@@ -22,7 +22,7 @@ A simple Notes App built using **React** and **Tailwind CSS**. This app allows u
 # Clone this repository
 git clone https://github.com/jsaurabh1906/React-Projects.git
 cd React-Projects
-cd 02-Notes-App
+cd 04-Notes-App
 
 # Install dependencies
 npm install
