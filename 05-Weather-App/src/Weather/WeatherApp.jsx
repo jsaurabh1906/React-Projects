@@ -151,6 +151,8 @@ const WeatherApp = () => {
           )}
         </main>
       )}
+
+      <Footer />
     </div>
   );
 };
